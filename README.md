@@ -1,2 +1,2 @@
 # Mountains-of-Preperation
-Week-2- Homework. A portfolio able to be update with future projects as they are completed.
+My ever growing portfolio with links and previews of all my work to show employeers.
